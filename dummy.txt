@@ -1,5 +1,7 @@
 study
+benkyo
 study
 study
-study
+new benkyo
+new benkyo
   
